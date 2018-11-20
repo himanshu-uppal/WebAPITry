@@ -1,0 +1,3 @@
+Install-Package jquery –version 1.10.2
+Install-Package bootstrap –version 3.0.0
+Install-Package knockoutjs –version 3.0.0
